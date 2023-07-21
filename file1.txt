@@ -1,1 +1,2 @@
 We are in file 1
+some updates in file 1
